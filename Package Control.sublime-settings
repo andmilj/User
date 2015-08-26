@@ -1,0 +1,42 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Babel",
+		"CSS Format",
+		"D3.js Snippets",
+		"DocBlockr",
+		"Emmet",
+		"Inc-Dec-Value",
+		"Jade",
+		"JavaScript Snippets",
+		"JavaScriptNext - ES6 Syntax",
+		"jQuery",
+		"jsfmt",
+		"JsFormat",
+		"JSHint",
+		"JSX",
+		"Local History",
+		"Modific",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"PackageResourceViewer",
+		"PowerShell",
+		"ReactJS",
+		"SASS Snippets",
+		"SCSS",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-html-tidy",
+		"SublimeTextGitX",
+		"SyncedSideBar",
+		"Syntax Highlighting for Sass",
+		"TrailingSpaces"
+	]
+}
